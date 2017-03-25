@@ -1,0 +1,13 @@
+a{
+	text-decoration: none;
+	color: #555;
+}
+body {
+	background-color: #ddd;
+	color: #555;
+	font-size: 15px;
+}
+.caption_bigtitle{
+	font-size: 25px;
+	font-weight: bold;
+}

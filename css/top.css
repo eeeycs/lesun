@@ -1,0 +1,23 @@
+body{
+	background: #aaa;
+	color: #555;
+}
+a{
+	text-decoration: none;
+	color: #555;
+}
+a:hover{
+	color: #eee;
+}
+.div_bigtitle{
+	font-size: 36px;
+	text-align:right;
+	font-weight: bolder;
+	float:left;
+	width:700;
+}
+div {
+	font-size: 15px;
+	float:right;
+	font-weight:normal;
+}

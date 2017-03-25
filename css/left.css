@@ -1,0 +1,32 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+	padding: 0;
+	margin: 0;
+ }
+a{
+	text-decoration: none;
+	color: #555;
+}
+a:hover{
+	color: #eee;
+}
+body {
+	background-color:hsla(254,79%,85%,1.00);
+	color: #555;
+}
+div {
+	font-size: 15px;
+	font-weight:normal;
+}
+.div_title_one{
+	font-size: 20px;
+	width: 130px;
+	background-color: #999;
+	text-align: center;
+	border-color: #eee;
+	border: 1;
+	border-bottom-style: solid;
+	font-weight: bolder;
+}
+.div_title_two{
+
+}

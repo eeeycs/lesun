@@ -1,0 +1,18 @@
+body{
+	background-color: #ddd;
+	color: #555;
+}
+div{
+	font-size: 36px;
+	text-align: center;
+	font-weight: bold;
+	}
+.div_left
+{
+	float: left;
+	}
+.div_right
+{
+	float: inherit;
+	
+	}
